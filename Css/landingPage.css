@@ -1,0 +1,14 @@
+body{  
+    background-color: #656565;
+    /* background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%); */
+    /* background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); */
+}
+
+#titulo{
+    font-size: 70px;
+    align-items: center;
+}
+.contenido img{
+    width: 900px;
+    height: 600px;
+}

@@ -1,0 +1,15 @@
+body{
+     background: url(../Img/Fondo.png);
+     background-size: cover;
+      background-position: center center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+    /*background: linear-gradient(to right, #2C96BF, #326173);*/
+}
+
+.bg{
+    background: url(../Img/Login/Image1.png);
+    background-position: center center;
+    background-size: cover;
+}
+

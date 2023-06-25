@@ -1,0 +1,27 @@
+body{  
+    background-color: #EBEBEB;
+    /* background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%); */
+    /* background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); */
+}
+
+
+main > .container{
+    padding: 30px 0;
+}
+
+.owl-carousel img {
+    cursor: pointer;
+    height: 300px;
+}
+
+#Columnas img{
+    cursor: pointer;
+    height: 300px;
+}
+
+.Descrip{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+}

@@ -1,0 +1,57 @@
+body{  
+    height: 100vh;
+    background-color: #EBEBEB;
+    display: flex;
+    flex-direction: column;
+    /* background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); */
+
+}
+
+main{
+    flex: 1;
+}
+
+
+.container{
+ 
+    flex: 1;
+}
+
+.usuario img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+#prodLista img{
+    width: 250px;
+    height: 300px;
+}
+
+#mensaje {
+    cursor: pointer;
+}
+
+.fileProd{
+    width: 250px;
+    height: 250px;
+}
+
+.msg{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+}
+
+.MsgScroll{
+   height: 600px;
+}
+
+
+.Mensaje{
+    max-width: 50%;
+    width: auto;
+    white-space: normal;
+}
+

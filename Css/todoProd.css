@@ -1,0 +1,33 @@
+body{  
+    height: 100vh;
+    background-color: #EBEBEB;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    flex: 1;
+}
+
+
+.container{
+ 
+    flex: 1;
+}
+
+
+main > .container{
+    padding: 30px 0;
+}
+
+#Columnas img{
+    cursor: pointer;
+    height: 300px;
+}
+
+.Descrip{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+}
